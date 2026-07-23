@@ -1,10 +1,10 @@
 # Nivel 01
 
 ## Contexto
-Eres parte de Walmart Global Tech. Nivel 1.
+Bienvenido al Nivel 1 de nuestros retos Walmart Tech Centroamérica.
 
 ## Objetivo
-Completa el reto implementando los TODOs en Main.java.
+Completar el reto del nivel 1.
 
 ## Reglas
 - No cambiar la firma de métodos.
