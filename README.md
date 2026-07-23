@@ -1,9 +1,9 @@
 # Nivel 01
 
-## Contexto
-¡Te damos la bienvenida al primer nivel de los retos técnicos de **Walmart Tech Centroamérica**! 🤖
+## Contexto 🤖
+¡Te damos la bienvenida al primer nivel de los retos técnicos de **Walmart Tech Centroamérica**! 
 
-## Objetivo
+## Objetivo 🚀
 Completar el reto del Nivel 1 mediante una solución en Java que procese los datos de forma correcta y eficiente.
 
 ## Reglas 🎯
