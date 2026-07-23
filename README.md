@@ -9,7 +9,7 @@ Completar el reto del Nivel 1 mediante una solución en Java que procese los dat
 ## Reglas 🎯
 * **No alterar la firma de los métodos** 
 * **Usar Java estándar** sin librerías de terceros.
-* 🛠️ Asegurarse de que el código compile y pase los casos de prueba.
+* Asegurarse de que el código compile y pase los casos de prueba.
   
 ## Dificultad 💻
 Básica
